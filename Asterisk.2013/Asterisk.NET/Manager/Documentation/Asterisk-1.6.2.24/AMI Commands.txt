@@ -31,7 +31,7 @@
   [x] MailboxStatus    call,reporting,  Check Mailbox
 
   -- SIP Actions
-  [ ] SIPnotify        system,all       Send a SIP notify
+  [Y] SIPnotify        system,all       Send a SIP notify
   [ ] SIPshowregistry  system,reportin  Show SIP registrations (text format)
   [ ] SIPqualifypeer   system,reportin  Show SIP peer (text format)
   [x] SIPshowpeer      system,reportin  Show SIP peer (text format)
